@@ -1,0 +1,5 @@
+# > Emby
+USER-AGENT,Emby*
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-KEYWORD,emby.com
+DOMAIN-KEYWORD,-emby-com
