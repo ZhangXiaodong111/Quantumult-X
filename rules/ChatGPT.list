@@ -1,6 +1,8 @@
 # > ChatGPT
 USER-AGENT,openai*
 DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-KEYWORD,chat.openai.com
+DOMAIN-KEYWORD,chatgpt.com
 DOMAIN-KEYWORD,openai.com
