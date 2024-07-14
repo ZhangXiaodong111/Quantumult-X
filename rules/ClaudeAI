@@ -1,0 +1,8 @@
+# > ClaudeAI
+USER-AGENT,claude.ai*
+HOST,cdn.usefathom.com,Claude
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+
+DOMAIN-KEYWORD,claude.ai
+DOMAIN-KEYWORD,anthropic.com
